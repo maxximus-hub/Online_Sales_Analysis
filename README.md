@@ -15,6 +15,9 @@
 
 This project provides insights into the online sales transactions and retail performance of a business. It aids in understanding the company performance, customer purchase patterns, which will then lead to making data-driven recommendations for the business.
 
+<img width="1373" height="666" alt="online_sales" src="https://github.com/user-attachments/assets/dc3b224d-66c8-4b54-9a62-2ebab79325da" />
+
+
 ### Data Sources
 
 The primary dataset used for this analysis is the 'online_sales_dataset.csv' file. It contains information about each sales transaction made by the business.
